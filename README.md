@@ -4,10 +4,10 @@ StudyFlow is a modern Learning Management System (LMS) built with **Laravel**, *
 
 ## 🛠 Tech Stack
 
-- **Backend**: Laravel 11
+- **Backend**: Laravel 12
 - **Frontend**: React (via Inertia.js) + TypeScript
 - **Styling**: Tailwind CSS
-- **Database**: PostgreSQL / MySQL
+- **Database**: MySQL
 - **Payment Gateway**: Midtrans
 - **Localization**: English & Indonesian (Switchable)
 
@@ -18,7 +18,7 @@ Ensure you have the following installed on your machine:
 - [PHP 8.2+](https://www.php.net/downloads) or higher
 - [Composer](https://getcomposer.org/)
 - [Node.js & NPM](https://nodejs.org/)
-- [PostgreSQL](https://www.postgresql.org/) or MySQL
+- MySQL  or [PostgreSQL](https://www.postgresql.org/)
 
 ## 🚀 Installation
 
